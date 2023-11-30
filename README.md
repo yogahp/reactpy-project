@@ -6,5 +6,7 @@
 ## 003-adding-interactivity
 ### 001-responding-to-events
 ![image info](./003-adding-interactivity/001-responding-to-events/001-responding-to-events.png)
-### 002-responding-to-events
+### 002-components-with-state
 ![image info](./003-adding-interactivity/002-components-with-state/002-components-with-state.png)
+### 003-state-as-snapshot
+![image info](./003-adding-interactivity/003-state-as-snapshot/003-state-as-snapshot.png)
